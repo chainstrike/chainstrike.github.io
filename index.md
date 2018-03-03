@@ -58,25 +58,25 @@ logical conclusion!
 
 questions? reach us at:
 
-## komodo slack #chainstrike
+### komodo slack #chainstrike
 
-## mail chainstrike@protonmail.com
+### mail chainstrike@protonmail.com
 
-## twitter @TeamChainstrike
+### twitter @TeamChainstrike
 
 !!! keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
 
-# NODE NA => SEND VOTE TO:
+## NODE NA => SEND VOTE TO:
 
     T: RSwdWfaDRQvxYVZNmDbxQm4QgbkTtz3NZk
     Z: zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
-# NODE AR => SEND VOTE TO:
+## NODE AR => SEND VOTE TO:
 
     T: RTHLYe2E6YzZPdWyr1P1ihm3FdSqqWuNjv
     Z: zcJTy3DzmQ2ZJwWM343YiQXoqXDpFS7X6uKFdjSjAFptUjTAVzF2jfkB3VXhidtr9iBsv4aptNmYEDeSYNyuu11J3uhBFqx
 
-# NODE SH => SEND VOTE TO:
+## NODE SH => SEND VOTE TO:
 
     T: RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
     Z: zcQLMmRYyDNdGBe8a5QFNMzGrTcmTSx9D9qMhdwJmoPV1Fu9reexHZG5YBRBqXnMKSj4ji6qQ2r8rCQdSXt5zcVLB9R4RKW
