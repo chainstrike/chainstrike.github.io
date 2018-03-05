@@ -58,11 +58,10 @@ logical conclusion!
 
 questions? reach us at:
 
-### komodo slack #chainstrike
-
-### mail chainstrike@protonmail.com
-
-### twitter @TeamChainstrike
+### slack [komodo #chainstrike](https://slack.com/app_redirect?channel=chainstrike)
+### mail [chainstrike@protonmail.com](mailto:chainstrike@protonmail.com)
+### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
+### keybase [/chainstrike](https://keybase.io/chainstrike)
 
 !!! keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
 
