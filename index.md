@@ -68,16 +68,17 @@ questions? reach us at:
 ## NODE NA => SEND VOTE TO:
 
     T: RSwdWfaDRQvxYVZNmDbxQm4QgbkTtz3NZk
-    Z: zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
 ## NODE AR => SEND VOTE TO:
 
     T: RTHLYe2E6YzZPdWyr1P1ihm3FdSqqWuNjv
-    Z: zcJTy3DzmQ2ZJwWM343YiQXoqXDpFS7X6uKFdjSjAFptUjTAVzF2jfkB3VXhidtr9iBsv4aptNmYEDeSYNyuu11J3uhBFqx
-
+    
 ## NODE SH => SEND VOTE TO:
 
     T: RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
-    Z: zcQLMmRYyDNdGBe8a5QFNMzGrTcmTSx9D9qMhdwJmoPV1Fu9reexHZG5YBRBqXnMKSj4ji6qQ2r8rCQdSXt5zcVLB9R4RKW
+
+## WANT TO VOTE ANONYMOUSLY? SURE! SEND YOUR VOTE TO:
+
+    Z: zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
 thank you for voting!
