@@ -41,11 +41,11 @@ in the workhours it should be an easy task,
 but  most importantly we help KMD keep pumping
 a healthy stream of notarizations.
 
-but wait, there is even more
+but wait, there is even more!
 
 every 4 months we will drop back 10% KMD of the 
 mined value to our voters. (only valid for public
-voters) in addition we will payout 10% KMD of
+votes) in addition we will payout 10% KMD of
 the mined value to help projects chosen by the
 team at our discretion.
 
@@ -54,7 +54,7 @@ fact that we bring the experience and willigness
 to provide a stable notarization environment
 to the table, should be enough to convince you
 that voting for TEAM CHAiNSTRiKE is the only
-logical conclusion!
+logical conclusion.
 
 questions? reach us at:
 
@@ -63,7 +63,7 @@ questions? reach us at:
 ### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
 ### keybase [/chainstrike](https://keybase.io/chainstrike)
 
-!!! keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
+!!!Keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD!!!
 
 ## NODE NA => SEND VOTE TO:
 
@@ -81,4 +81,4 @@ questions? reach us at:
 
     Z: zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
-thank you for voting!
+Thank you for voting!
