@@ -86,7 +86,7 @@ questions? reach us at:
 
 #### How does this work? a.k.a. Disclaimer - Please read carefully!
 
-    For a full overview of the mechanics [please click here to visit the official site](https://komodoplatform.atlassian.net/wiki/spaces/KPSD/pages/125435911/Komodo+Notary+Election+Mechanics)
+    For a full overview of the mechanics <https://goo.gl/Y4nRMY>
     
     Keep in mind that if you vote fully anonymous from your Z address to our Z address we will NOT be able to airdrop your KMD
 
