@@ -6,17 +6,17 @@ have a long history in the crypto scene.
 
 you want details? sure lets jump right in...    
 
-##### /home/jeezy
+#### /home/jeezy
 * long time investor of james projects       
 * EU node operator since the beginning in 2016 
 * nearly 15 years of IT-experience (win/nix)
 
-##### /home/dukeleto
+#### /home/dukeleto
 * core dev of KMD, helping implement 2.0 vision
 * core dev of HUSH, bringing secure coms to people
 * started mining BTC and read Satoshis WP in 2011
 
-##### /home/rz1911
+#### /home/rz1911
 * backup operator for all nodes                 
 * will mainly manage the social media accounts
 * over 15 years experience in it-security
@@ -41,7 +41,7 @@ in the workhours it should be an easy task,
 but  most importantly we help KMD keep pumping
 a healthy stream of notarizations.
 
-but wait, there is even more!
+#### but wait, there is even more!
 
 every 4 months we will drop back 10% KMD of the 
 mined value to our voters. (only valid for public
@@ -61,24 +61,25 @@ questions? reach us at:
 ##### slack [komodo #chainstrike](https://slack.com/app_redirect?channel=chainstrike)
 ##### mail [chainstrike@protonmail.com](mailto:chainstrike@protonmail.com)
 ##### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
-### keybase [/chainstrike](https://keybase.io/chainstrike)
+##### keybase [/chainstrike](https://keybase.io/chainstrike)
 
 
-## NODE NA => SEND VOTE TO:
+### NODE NA => SEND VOTE TO:
 
     RSwdWfaDRQvxYVZNmDbxQm4QgbkTtz3NZk
 
-## NODE AR => SEND VOTE TO:
+### NODE AR => SEND VOTE TO:
 
     RTHLYe2E6YzZPdWyr1P1ihm3FdSqqWuNjv
     
-## NODE SH => SEND VOTE TO:
+### NODE SH => SEND VOTE TO:
 
     RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
 
-## WANT TO VOTE ANONYMOUSLY? SEND VOTE TO:
+### WANT TO VOTE ANONYMOUSLY? SEND VOTE TO:
 
     zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
+
 
 ## Disclaimer - Please read carefully!
 
@@ -86,4 +87,5 @@ questions? reach us at:
 
     Do NOT send any VOTE2018 to us from an address you do not control! (Exchanges, etc.)
     
-Thank you for voting!
+
+## Thank you for voting!
