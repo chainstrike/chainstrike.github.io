@@ -1,4 +1,6 @@
-## ladies and gentlemen, 
+![vote for chainstrike](https://i.imgur.com/YnbD9Bv.png "Vote for CHAiNSTRiKE!")
+
+#### ladies and gentlemen, 
 
 we are pleased to announce the candidacy of
 TEAM CHAiNSTRiKE  for nodes in NA/AR/SH. our members
@@ -64,28 +66,31 @@ questions? reach us at:
 ##### keybase [/chainstrike](https://keybase.io/chainstrike)
 
 
-### NODE NA => SEND VOTE TO:
+
+#### NODE NA => SEND VOTE2018 TO:
 
     RSwdWfaDRQvxYVZNmDbxQm4QgbkTtz3NZk
 
-### NODE AR => SEND VOTE TO:
+#### NODE AR => SEND VOTE2018 TO:
 
     RTHLYe2E6YzZPdWyr1P1ihm3FdSqqWuNjv
     
-### NODE SH => SEND VOTE TO:
+#### NODE SH => SEND VOTE2018 TO:
 
     RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
 
-### WANT TO VOTE ANONYMOUSLY? SEND VOTE TO:
+#### WANT TO VOTE ANONYMOUSLY? SEND VOTE TO:
 
     zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
 
-## Disclaimer - Please read carefully!
+#### How does this work? a.k.a. Disclaimer - Please read carefully!
 
-    Keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
+    For a full overview of the mechanics [please click here to visit the official site](https://komodoplatform.atlassian.net/wiki/spaces/KPSD/pages/125435911/Komodo+Notary+Election+Mechanics)
+    
+    Keep in mind that if you vote fully anonymous from your Z address to our Z address we will NOT be able to airdrop your KMD
 
-    Do NOT send any VOTE2018 to us from an address you do not control! (Exchanges, etc.)
+    Also make sure to NOT send any VOTE2018 to us from an address you do not control! (exchanges, etc.)
     
 
-## Thank you for voting!
+#### Thank you for voting!
