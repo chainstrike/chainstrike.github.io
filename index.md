@@ -79,14 +79,14 @@ questions? reach us at:
 
     RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
 
-#### WANT TO VOTE ANONYMOUSLY? SEND VOTE TO:
+#### WANT TO VOTE ANONYMOUSLY? SEND VOTE2018 TO:
 
     zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
 
 #### How does this work? a.k.a. Disclaimer - Please read carefully!
 
-* For a full overview of the mechanics <https://goo.gl/Y4nRMY>
+* For a full overview of the mechanics, please click here: <https://goo.gl/Y4nRMY>
     
 * Keep in mind that if you vote fully anonymous from your Z address to our Z address we will NOT be able to airdrop your KMD
 
