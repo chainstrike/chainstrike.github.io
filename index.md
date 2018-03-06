@@ -63,28 +63,27 @@ questions? reach us at:
 ### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
 ### keybase [/chainstrike](https://keybase.io/chainstrike)
 
-!!!Keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD!!!
 
 ## NODE NA => SEND VOTE TO:
 
-    T: RSwdWfaDRQvxYVZNmDbxQm4QgbkTtz3NZk
+    RSwdWfaDRQvxYVZNmDbxQm4QgbkTtz3NZk
 
 ## NODE AR => SEND VOTE TO:
 
-    T: RTHLYe2E6YzZPdWyr1P1ihm3FdSqqWuNjv
+    RTHLYe2E6YzZPdWyr1P1ihm3FdSqqWuNjv
     
 ## NODE SH => SEND VOTE TO:
 
-    T: RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
+    RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
 
 ## WANT TO VOTE ANONYMOUSLY? SEND VOTE TO:
 
-    Z: zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
+    zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
-## FAQs
+## Disclaimer - Please read carefully!
 
-### Can I vote with KMD I have on an exchange?
+### Keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
 
-No! You must use the VOTE2018 asset chain, more details coming soon.
+### Do NOT send any VOTE2018 to us from an address you do not control! (Exchanges, etc.)
 
 Thank you for voting!
