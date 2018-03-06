@@ -81,4 +81,10 @@ questions? reach us at:
 
     Z: zceShaEhLs37j6nMeJDcBNUEW2o1mayCERpMtz2q92sE3vCxJeeratBdRa3hg5wqtRFKvihcaDyW9c9me44SzLUYivpZXGP
 
+## FAQs
+
+### Can I vote with KMD I have on an exchange?
+
+No! You must use the VOTE2018 asset chain, more details coming soon.
+
 Thank you for voting!
