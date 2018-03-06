@@ -6,17 +6,17 @@ have a long history in the crypto scene.
 
 you want details? sure lets jump right in...    
 
-## /home/jeezy
+##### /home/jeezy
 * long time investor of james projects       
 * EU node operator since the beginning in 2016 
 * nearly 15 years of IT-experience (win/nix)
 
-## /home/dukeleto
+##### /home/dukeleto
 * core dev of KMD, helping implement 2.0 vision
 * core dev of HUSH, bringing secure coms to people
 * started mining BTC and read Satoshis WP in 2011
 
-## /home/rz1911
+##### /home/rz1911
 * backup operator for all nodes                 
 * will mainly manage the social media accounts
 * over 15 years experience in it-security
@@ -58,9 +58,9 @@ logical conclusion.
 
 questions? reach us at:
 
-### slack [komodo #chainstrike](https://slack.com/app_redirect?channel=chainstrike)
-### mail [chainstrike@protonmail.com](mailto:chainstrike@protonmail.com)
-### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
+##### slack [komodo #chainstrike](https://slack.com/app_redirect?channel=chainstrike)
+##### mail [chainstrike@protonmail.com](mailto:chainstrike@protonmail.com)
+##### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
 ### keybase [/chainstrike](https://keybase.io/chainstrike)
 
 
@@ -82,8 +82,8 @@ questions? reach us at:
 
 ## Disclaimer - Please read carefully!
 
-### Keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
+    Keep in mind that if you vote from Z to Z we will not be able to airdrop your KMD
 
-### Do NOT send any VOTE2018 to us from an address you do not control! (Exchanges, etc.)
-
+    Do NOT send any VOTE2018 to us from an address you do not control! (Exchanges, etc.)
+    
 Thank you for voting!
