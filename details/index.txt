@@ -77,7 +77,7 @@ questions? reach us at:
 
 #### DISCLAIMER - aka How does this work? - Please read carefully!
 
-* For a full overview of the mechanics, please click here: <https://goo.gl/Y4nRMY>
+* For a full overview of the mechanics, please click here: [Komodo Election Website](http://komodoelection.com/)
     
 * Make sure to NOT send any VOTE2019 to us from an address you do not control! (exchanges, etc.)
     
