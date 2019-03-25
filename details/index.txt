@@ -59,7 +59,7 @@ logical conclusion.
 
 questions? reach us at:
 
-##### discord @dukeleto#7326 @jeezy#3408 https://discord.gg/qj25rC8
+##### discord [@dukeleto#7326](https://discord.gg/qj25rC8) [@jeezy#3408](https://discord.gg/qj25rC8)
 ##### mail [chainstrike@protonmail.com](mailto:chainstrike@protonmail.com)
 ##### twitter [@TeamChainstrike](https://twitter.com/TeamChainstrike)
 ##### keybase [/chainstrike](https://keybase.io/chainstrike)
