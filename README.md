@@ -1,4 +1,4 @@
-![vote for chainstrike](https://i.imgur.com/YnbD9Bv.png "Vote for CHAiNSTRiKE!")
+![vote for chainstrike](https://i.imgur.com/y59wBXq.png "Vote for CHAiNSTRiKE!")
 
 #### ladies and gentlemen, 
 
