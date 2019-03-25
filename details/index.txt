@@ -1,6 +1,6 @@
-![vote for chainstrike](https://i.imgur.com/YnbD9Bv.png "Vote for CHAiNSTRiKE!")
+![vote for chainstrike](https://i.imgur.com/y59wBXq.png "Vote for CHAiNSTRiKE!")
 
-#### ladies and gentlemen, 
+# ladies and gentlemen, 
 
 we are pleased to announce the candidacy of
 TEAM CHAiNSTRiKE  for nodes in NA & AR. we
@@ -84,7 +84,30 @@ questions? reach us at:
 
 #### Thank you for voting!
 
+# General Information
 
+#### NODE SH
+* Location: Australia Tier 3 DC
+* Legacy Addr: RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
+* Legacy BTC: 1PaDKKamr7MrnheZZc7twW81TwU9MQK4JV
+* Legacy PubKey: 0370bcf10575d8fb0291afad7bf3a76929734f888228bc49e35c5c49b336002153
+* New Addr: RMQLywbU7JGGzUnV6HaZ3MVvnVuY4ijcUk
+* New BTC: 1D89uRiBWUThvURHd7bRwqAj2ESwQ422xk
+* New PubKey: 03e9b86e3431432f5e7a04ad056c7ef4026de866cd134fd1b47d0964029d79dd6f
+
+#### NODE NA
+* Location: TBD
+* Addr: RBqwWPYGyi6vkSKYgniDabyMrk2fxVgZcH
+* BTC: 13ZkRsezNtJMgRxMDcj6V5eA6Ua5Gkpb8b
+* PubKey: 036bb5c8ea5033e4bafd49ca75e40a0d029bf1f6d2a2ea8283d460ce6c712090a3
+
+#### NODE AR
+* Location: TBD
+* Addr: RV9fELEnjkSxLjdTSSBuKkwixN4e9tMc5P
+* BTC: 1LsU9pMW8vePGjGFyGCnEEcXC6c3ShkMsQ
+* PubKey: 03568a5c4e3989d2eecf13990db75f096837f83515e69977a787d05ce384f982a8
+
+##### PGP
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
